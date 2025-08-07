@@ -17,7 +17,7 @@ const fullNames = [
     "Avery Watson", "Elise Stevens", "Maddox Hayes", "Eliot Bennett", "Adeline Wells",
     "Ian Fisher", "Brianna Spencer", "Maya Jenkins", "Jaxon Howard", "Ivy Morgan",
     "Jameson Armstrong", "Landon Graham", "Aurora Rivera", "Lily Campbell", "Samuel Perez",
-    
+
     // Indian Names
     "Aarav Sharma", "Isha Gupta", "Rahul Patel", "Priya Reddy", "Vikram Desai",
     "Ananya Singh", "Arjun Kumar", "Sneha Verma", "Karan Joshi", "Nisha Mehta",
@@ -38,4 +38,4 @@ const fullNames = [
 ];
 
 let name = "Debottam Kar";
-module.exports = {fullNames, name};
+module.exports = { fullNames, name };

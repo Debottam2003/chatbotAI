@@ -4,7 +4,8 @@
   "main": "ai.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ai.js"
+    "build": "npm i",
+    "start": "node ai.js"
   },
   "keywords": [],
   "author": "Debottam Kar",
